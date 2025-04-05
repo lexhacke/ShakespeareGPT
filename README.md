@@ -7,6 +7,9 @@ Transformer-based architecture using multi-head self-attention with key-value re
 📁 Files 
 
 LLM-v3.ipynb — LLM training loop & sampling
+
 LLM_v3_modeltest.ipynb — loading of shakespeareGPT.keras and subsequent usage
+
 shakespeareGPT.keras — model weights
+
 shakespeare.txt — small training corpus
