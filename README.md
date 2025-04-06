@@ -10,6 +10,7 @@ LLM-v3.ipynb — LLM training loop & sampling
 
 LLM_v3_modeltest.ipynb — loading of shakespeareGPT.keras and subsequent usage
 
-shakespeareGPT.keras — model weights
+*shakespeareGPT.keras — model weights ⚠️700+ MB I can't directly upload this to Github: https://drive.google.com/file/d/1yuCVThGyAL9ft3LKA3BcxRrdwUJLdiIR/view?usp=sharing
 
 shakespeare.txt — small training corpus
+
